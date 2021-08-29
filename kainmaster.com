@@ -8,7 +8,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "",
+      "video": "https://yoogame8.com/videostips/kineg1.mp4",
       "privacy": "https://ausaspurc.github.io/privacy.html",
       
       "spancount": 1,
