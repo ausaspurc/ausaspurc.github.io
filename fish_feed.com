@@ -62,10 +62,10 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-9807264092456179/1738226847",
-        "admb_openad": "ca-app-pub-9807264092456179/2288891181",
-        "admb_inters": "ca-app-pub-9807264092456179/6228136198",
-        "admb_native": "ca-app-pub-9807264092456179/2129109087"
+        "admb_banner": "ca-app-pub-2555400651572549/6940023965",
+        "admb_openad": "ca-app-pub-2555400651572549/9397476976",
+        "admb_inters": "ca-app-pub-2555400651572549/7315428488",
+        "admb_native": "ca-app-pub-2555400651572549/2394274292"
       },
       "unity": false,
       "adsunity": {
